@@ -3,10 +3,10 @@
 *Developers: KICA SOLOMON 16/U/421
 *************YIGA JOSEPHAT 16/U/12432/PSA
 *************BUSINGYE CAROLINE 16/U/4466/PSA
-*************SSENTONGO VINCENT
+*************SSENTONGO VINCENT  15/U/12953/PSA
 *************MAZINGA AMOS  16/U/6967/PS
 *************NANKUNDA BRIDGET  16/U/9734/PS
-*
+*************
 */
 package org.geotools.tutorial.crs;
 
