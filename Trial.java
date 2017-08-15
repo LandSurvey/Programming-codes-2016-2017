@@ -1,6 +1,12 @@
 /*
  * YEAR 1 first GIS software...under more development
  *It can do coordinate transformation, open and query data from shapefile, reading csv file coordinates into shapefile,     
+ *TEMADRI PEACE  16/U/11863
+ *MWESIGWA ISAAC 16/U/749
+ *ORIMUKE BENSON 16/U/18982
+ *OBUKU JOSEPH   16/U/10695
+ *MUHUMUZA MARVIN 16/U/656 
+ *WANYAMA EMMANUEL 16/U/1271
  */
 
 package org.geotools.tutorial.crs;
